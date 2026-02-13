@@ -1,4 +1,4 @@
-#Name : Bob Afwata
+#Name : Alvin Njuguna
 # Date : 11/02/2026
 # Program to add two numbers
 
