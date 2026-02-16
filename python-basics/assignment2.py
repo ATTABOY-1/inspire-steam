@@ -41,7 +41,7 @@ cleaned_amount_added = amount_added.replace("Kes", "")
 
 print("Cleaned amount added: ", cleaned_amount_added)
 
-# Daudis answer
+# Adding the cleaned balance and cleaned amount added
 new_balance = int(cleaned_balance) + int(cleaned_amount_added)
 
 print("The new balance is:", new_balance)
